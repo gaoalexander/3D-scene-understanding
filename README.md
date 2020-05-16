@@ -1,7 +1,13 @@
-# NYU Deep Learning Spring 2020 Final Project
-Wherever applicable, we have explicitly attributed credit at the head of any source code files in this repository.
+# NYU Deep Learning Spring 2020 Final Project, by {Alexander Gao, Yash Deshpande, Yunya Wang}
+**Techniques and ideas explored in this project:**
+- Conditional Generative Adversarial Network
+- Pretext-Invariant Representation Learning
+- Self-Supervised Monocular Depth Prediction
+- Geometric Scene Reconstruction.
 
 [Accompanying Paper](https://github.com/yashd94/auto-chauffeur/blob/master/ProjectSummary.pdf "Accompanying Paper")
+
+**Wherever applicable, we have explicitly attributed credit at the head of any source code files in this repository.**
 
 ## Directories
 ### 00 Utility Scripts
