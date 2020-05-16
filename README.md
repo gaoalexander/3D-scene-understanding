@@ -1,4 +1,4 @@
-# NYU Deep Learning Spring 2020 Final Project, by {Alexander Gao, Yash Deshpande, Yunya Wang}
+# NYU Deep Learning Spring 2020 Final Project
 **Techniques and ideas explored in this project:**
 - Conditional Generative Adversarial Network
 - Pretext-Invariant Representation Learning
